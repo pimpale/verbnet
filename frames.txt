@@ -1,0 +1,1563 @@
+Agent <author> Result
+Agent <author> Result from Material
+Agent <author> Result for Beneficiary
+Agent <author> Result as Attribute
+Agent <choreograph>
+Agent <conjure> Beneficiary Result
+Agent <copyright> Theme
+Agent <copyright> Theme as Result
+Agent <aim> Topic
+Agent <aim> Topic as Attribute
+Agent <mean> Topic
+Agent <mean> Topic
+Agent <intend> Topic
+Agent <bring> Patient
+Agent <initiate> Patient with Instrument
+Agent <save> Recipient Asset
+Agent <amerce> Recipient
+Agent <dip> Theme PREP Destination
+Agent <dip> Theme PREP Initial_Location PREP Destination
+Agent <dip> Theme Destination
+Agent <dip> Theme PREP Trajectory
+Agent <channel> Theme between Destination
+Theme <bang> into Destination
+Agent <walk_through> Theme
+Agent <walk_through> Theme
+Agent <exercise>
+Causer <dissuade> Beneficiary from Eventuality
+Causer <deter> Eventuality
+Causer <deter> Eventuality
+Causer <deter> Eventuality
+Theme <orbit> PREP Axis
+Agent <support> Beneficiary
+Agent <support> Beneficiary with Theme
+Agent <support> Beneficiary with Theme
+Agent <support> Beneficiary Theme
+Agent <support> with Theme
+Agent <aid> with Theme
+Agent <go> with Beneficiary
+Agent <go> with Beneficiary
+Agent <grow> Patient
+Agent <cultivate> Material Product
+Agent <alert> Recipient
+Agent <alert> Recipient against Topic
+Agent <alert> Recipient Topic
+Agent <alert> Recipient Topic
+Agent <alert> Recipient Topic
+Agent <alert> Recipient of Topic
+Agent <admonish> against Topic
+Agent <admonish> Topic
+Agent <admonish> Topic
+Agent <admonish> Topic
+Agent <confess> Topic
+Agent <confess> Topic
+Agent <confess> Topic
+Agent <confess> Topic
+Agent <confess> Topic
+Agent <confess> Topic to Recipient
+Agent <confess> Topic
+Agent <confess> to Recipient
+Agent <confess> to Recipient Topic
+Agent <confess> Topic
+Agent <check> Location for Theme
+Agent <check> for Theme PREP Location
+Agent <check> PREP Location for Theme
+Agent <check> PREP Location
+Precondition <ensure> Theme
+Precondition <ensure> Beneficiary Theme
+Precondition <ensure> Theme for Beneficiary
+Precondition <ensure> Theme
+Agent <approach> Theme
+Agent <approach> Theme with Instrument
+Agent <take> Theme
+Agent <take> Theme against Destination
+Agent <take> against Destination Theme
+Agent <take> Theme PREP Initial_Location
+Agent <take> Theme PREP Initial_Location to Destination
+Instrument <take> Theme Destination
+Agent <bring> Destination Theme
+Agent <bring> Theme together
+Theme <begin> PREP Location
+Agent <avoid> Location
+Agent <avoid> Theme
+Agent <avoid> Theme
+Agent <avoid> Theme
+Agent <accept> Theme
+Agent <accept> Theme
+Agent <accept> Theme
+Agent <accept> Theme
+Agent <accept> Theme
+Agent <court>
+Agent <court> Co-Agent
+Agent <back_out> of Source
+Agent <back_out> of Source
+Agent <back_down> from Source
+Agent <back_down> from Source
+Agent <aromatize> Destination
+Agent <aromatize> Destination with Theme
+Agent <cross-examine> Recipient
+Agent <cross-examine> Recipient as Attribute
+Agent <cross-examine> Recipient about Topic
+Agent <accord> Theme to Goal
+Agent <accord> Theme
+Agent <accord> Goal Theme
+Agent <accord> Theme to Goal
+Agent <arrange> Product
+Agent <arrange> Product from Material
+Agent <arrange> Material into Product
+Agent <arrange> Product for Beneficiary
+Agent <arrange> Beneficiary Product from Material
+Agent <arrange> Product from Material for Beneficiary
+Agent <arrange> Material for Beneficiary
+Agent <arrange> Material into Product for Beneficiary
+Material <arrange> Product
+Agent <arrange> Beneficiary Product for Asset
+Agent <arrange> Product from Material for Asset
+Agent <build> Product for Asset
+Asset <build> Product
+Asset <build> Beneficiary Product
+Asset <build> Product from Material
+Asset <build> Beneficiary Product from Material
+Agent <accomplish> Eventuality
+Agent <accomplish> Eventuality
+Agent <behave> as Attribute
+Agent <act> like Attribute
+Agent <serve> Attribute
+Agent <serve> in Attribute
+Experiencer <appreciate> Stimulus
+Experiencer <appreciate> Stimulus
+Experiencer <appreciate> Stimulus as Attribute
+Experiencer <appreciate> Stimulus
+Experiencer <appreciate> Stimulus
+Experiencer <appreciate> Stimulus
+Experiencer <appreciate> Stimulus
+Experiencer <grasp> Stimulus
+Experiencer <grasp> Stimulus
+Experiencer <grasp> Stimulus
+Experiencer <see>
+Experiencer <know> about Stimulus
+Experiencer <know> about Stimulus
+Experiencer <know> about Stimulus
+Experiencer <know> about Stimulus
+Experiencer <know> Stimulus about
+Agent <heave> Theme
+Agent <jerk> Theme Result
+Agent <jerk> at Theme
+Agent <jostle> PREP
+Agent <jostle> PREP Trajectory
+Agent <offer> Pivot for Theme
+Agent <offer> Pivot as Attribute
+Agent <offer> Theme
+Agent <enlist> as Attribute
+Agent <enlist> for Theme
+Agent <enlist> with Beneficiary
+Agent <enlist> Pivot with Beneficiary
+Stimulus <matter>
+Stimulus <matter> to Experiencer
+it <matter> to Experiencer Stimulus
+it <matter> Stimulus
+Stimulus <matter>
+Experiencer <hit> Patient
+Patient <break>
+Experiencer <bark> Patient
+Experiencer <bark> Patient
+Agent <let> Beneficiary Eventuality
+Agent <abide_by> Theme
+Agent <react>
+Agent <react> to|against Theme
+Agent <react> with Eventuality
+Agent <react> to|against Theme with Eventuality
+Agent <admix> Patient with Co-Patient
+Agent <admix> Patient
+Agent <admix> Patient together
+Patient <admix> with Co-Patient
+Patient <admix> ADV with Co-Patient
+Patient <admix> ADV
+Patient <admix> ADV together
+Patient <blend>
+Patient <blend> together
+Agent <add> Patient with Co-Patient
+Agent <add> Patient
+Agent <add> Patient together
+Patient <add> ADV with Co-Patient
+Patient <add> ADV
+Patient <add> ADV together
+Patient <connect> with Co-Patient
+Patient <connect>
+Patient <connect> together
+Agent <belt> Theme
+Agent <belt>
+Agent <belt> Theme for Beneficiary
+Agent <dance> Beneficiary Theme
+Agent <color> Patient
+Agent <color> Patient Result
+Agent <color> Patient to Result
+Patient <come_out> Result
+Patient <come> in Result
+Patient <become> Result
+Agent <broadcast> Topic
+Agent <broadcast> Recipient
+Agent <broadcast> Topic to Recipient
+Agent <broadcast> Recipient Topic
+Agent <broadcast> Recipient Topic
+Agent <broadcast> to Recipient Topic
+Agent <broadcast> Recipient about Topic
+Agent <broadcast> Topic
+Agent <broadcast> Topic
+Agent <broadcast> Topic
+Agent <broadcast> Recipient Topic
+Agent <broadcast> Recipient Topic
+Agent <broadcast> Recipient Topic
+Agent <broadcast> to Recipient Topic
+Agent <broadcast> to Recipient Topic
+Agent <broadcast> to Recipient Topic
+Agent <broadcast> for Topic
+Agent <abolish> Theme
+Agent <abolish> Theme PREP Initial_Location
+Agent <involve> Theme
+Agent <involve> Theme in Goal
+Agent <attain> Theme
+Agent <attain> Theme from Source
+Agent <attain> Theme for Beneficiary
+Agent <attain> Beneficiary Theme
+Agent <attain> Theme for Asset
+Asset <attain> Theme
+Agent <attain> Theme from Source at Asset
+Agent <earn> Theme from Source
+Agent <issue> Theme to Recipient
+Agent <issue> Recipient with Theme
+Agent <issue> Theme
+Agent <credit> Recipient
+Agent <provide> for Recipient
+Agent <fire> Theme
+Agent <fire> Theme from Source
+Agent <fire> Theme as Attribute
+Agent <copy> Theme
+Agent <copy> Theme on Destination
+Agent <carve>
+Agent <rely> on Theme
+Agent <rely> on Theme
+Agent <rely> on Theme
+Agent <rely> on Theme
+Agent <rely> on Theme
+Agent <accompany> Theme
+Agent <accompany> Theme PREP Destination
+Theme <amble>
+Theme <amble> to Destination
+Theme <amble> PREP Trajectory
+there <amble> PREP Initial_Location Theme
+there <amble> Theme PREP Initial_Location
+PREP Initial_Location <amble> Theme
+Theme <hop> Trajectory
+Agent <back> Theme PREP Trajectory
+Agent <back> Theme PREP Trajectory
+Agent <back> Agent
+Agent <back> Theme
+Agent <back> Theme PREP Initial_Location to Destination PREP Trajectory
+Agent <back> Theme to Result
+Theme <fly> Trajectory
+Theme <fly> to Result
+Agent <abate> Patient
+Agent <abate> Patient with Instrument
+Patient <abate>
+Patient <abate> ADV
+Instrument <abate> Patient
+Patient <awake> Result
+Agent <overstate> Theme
+Causer <commute> Patient by Extent from Initial_State to Result
+Causer <commute> Patient Extent from Initial_State to Result
+Causer <advance> Patient
+Patient <advance> ADV
+Patient <advance>
+Patient <advance> Extent from Initial_State to Result
+Patient <advance> by Extent from Initial_State to Result
+Attribute of Patient <advance> Extent ?from Initial_State to Result
+Attribute of Patient <advance> by Extent from Initial_State to Result
+Patient <advance> in Attribute Extent from Initial_State to Result
+Patient <advance> in Attribute by Extent from Intial_State to Result
+Agent <address> Destination
+Agent <address> Destination with Theme
+Agent <take> Theme
+Agent <take> Theme to Destination
+Agent <take> Theme from Initial_Location
+Agent <take> Trajectory
+Agent <take> Trajectory to Destination
+Agent <take> Trajectory from Initial_Location
+Agent <sail>
+Agent <bite> Patient
+Agent <bite> Patient with Instrument
+Agent <bite> at Patient
+Agent <bite> at Patient with Instrument
+Agent <bite> Patient Result
+Agent <bite> Patient Result with Instrument
+Agent <bite> Patient to Result
+Agent <bite> Patient to Result with Instrument
+Agent <bite> Patient PREP Location
+Agent <avow> Theme Attribute
+Agent <avow> Theme Attribute
+Agent <avow> Theme
+Agent <avow> Theme Attribute
+Agent <avow> Theme
+Agent <adjudge> Theme
+Agent <adjudge> Theme as Attribute
+Agent <find> Theme
+Agent <find> Theme
+Agent <find> Theme
+Agent <declare> Attribute
+Agent <profess> Theme
+Agent <profess> Theme
+Agent <profess> Theme
+Theme <reek>
+Location <reek>
+Location <reek> of Theme
+Theme <involve> Co-Theme
+Theme <refer> to Co-Theme
+Agent <tell_apart> Theme
+Agent <tell_apart> Theme by Attribute
+Agent <tell_apart> Theme from Co-Theme
+Agent <tell_apart> Theme from Co-Theme by Attribute
+Attribute <distinguish> Theme
+Agent <distinguish> between Theme
+Agent <annul> Patient
+it [+be] <blow>
+it [+be] <blow> Theme
+it[+be] <blow> with Theme
+Agent <overload> Theme PREP Destination
+Agent <overload> Destination with Theme
+Agent <overload> Theme
+Agent <overload> Destination
+Theme <baste> PREP Destination
+Agent <baste> Theme at Destination
+Theme <cram> Destination
+Theme <adhere> to Co-Theme
+Theme <adhere> together
+Agent <barf>
+Agent <barf> on Destination
+Agent <barf> Theme
+Agent <barf> Theme on Destination
+Agent <breathe> Theme
+Agent <ally>
+Agent <ally> with Co-Agent
+Agent <ally> against Maleficiary
+Agent <ally> Theme
+Agent <refrain>
+Agent <refrain> from Eventuality
+Agent <refrain> from Eventuality
+Affector <cut> Eventuality
+Eventuality <close>
+Affector <cease> Eventuality
+Affector <cease> Eventuality with Subeventuality
+Subeventuality <cease> Eventuality
+Agent <clean> Source
+Agent <clean> Theme PREP Source
+Agent <clean> Source of Theme
+Source <clear>
+Theme <clear> PREP Source
+Agent <clear> Theme PREP Source PREP Destination
+Agent <attend> PREP Theme
+Theme <hit> against Location
+Theme <bang> together
+Theme <attend> Goal
+Theme <go> PREP Goal
+Agent <bake> Product
+Agent <bake> Product from Material
+Agent <bake> Beneficiary Product
+Agent <bake> Product for Beneficiary
+Agent <barbeque> Patient
+Agent <barbeque> Beneficiary Patient
+Agent <barbeque> Patient for Beneficiary
+Theme <carry> Value
+Theme <carry> Beneficiary Value
+Agent <rob> Theme
+Agent <rob> Theme PREP Source
+Agent <rob> Theme for Beneficiary
+Agent <rob> Theme PREP Source for Beneficiary
+Agent <chew>
+Agent <chew> Patient
+Agent <chew> at Patient
+Agent <hold> Theme Path
+Agent <hold> Path Theme
+Agent <hold> Theme Path PREP Goal
+Agent <extend> Theme PREP Goal
+Agent <extend> PREP Goal
+Agent <extend> PREP Path
+Agent <extend> PREP Path PREP Theme
+Agent <reach>
+Goal <absorb> Theme
+Goal <absorb> Theme from Source
+Agent <bottlefeed> Recipient
+Agent <bottlefeed> Theme to Recipient
+Agent <bottlefeed> Recipient Theme
+Agent <alter> Patient from Initial_State into Result
+Patient <alter> from Initial_State into Result
+Agent <alter> Patient into Result
+Patient <alter> into Result
+Patient <alter>
+Agent <alter> Patient
+Agent <change> to Result
+Agent <change> from Initial_State to Result
+Agent <change> to Result from Initial_State
+Agent <banquet>
+Agent <banquet> on Patient
+Agent <beckon> Patient
+Agent <beckon> Patient in Theme
+Agent <beckon>
+Agent <beckon> PREP Recipient
+Agent <beckon> Theme PREP Recipient
+Agent <beckon> Theme
+Agent <beckon> in Theme
+Agent <beckon> Theme
+Agent <bracket> Theme
+Agent <bracket> Theme as Goal
+Agent <bracket> Theme in Goal
+Agent <bring_forth> Patient
+Agent <bear> Beneficiary Patient
+Agent <reproduce>
+Agent <bombard> Destination with Theme
+Agent <bombard> Destination
+Pivot <hold> Theme
+Agent <bolster> Theme with Instrument
+Agent <bend> Patient
+Agent <bend> Patient with Instrument
+Patient <bend>
+Patient <bend> ADV
+Instrument <bend> Patient
+Agent <bend> Patient Result
+Agent <bend> Patient to Result
+Agent <bend> Patient to Result with Instrument
+Agent <bamboozle> Patient
+Agent <bamboozle> Patient into Result
+Agent <bamboozle> Patient into Result
+Agent <allow> Theme
+Agent <admit> Theme Location
+Agent <admit> Theme PREP Location
+Material <ball> into Product
+Agent <ball> Material into Product
+Agent <ball> Material
+Agent <curl> Theme Extent
+Agent <curl> Theme Extent PREP Trajectory
+Agent <drop> Theme
+Agent <drop> Theme PREP Destination
+Agent <drop> Theme PREP Destination PREP Initial_Location
+Agent <drop> Theme Destination
+Agent <appraise> Theme
+Agent <appraise> Theme at Value
+Agent <cognize> Topic
+Agent <cognize> about Topic
+Agent <cognize> Topic
+Agent <banter>
+Agent <banter> about Topic
+Agent <banter> about Topic
+Agent <banter> about Topic
+Agent <banter> about Topic
+Agent <banter> about Topic
+Agent <banter> about Topic
+Agent <banter> with Co-Agent about Topic
+Agent <banter> with Co-Agent about Topic
+Agent <banter> with Co-Agent about Topic
+Agent <banter> with Co-Agent about Topic
+Agent <banter> with Co-Agent about Topic
+Agent <agree> with Co-Agent Topic
+Agent <agree> with Co-Agent Topic
+Agent <agree> Topic
+Agent <agree> Topic
+Agent <agree> Topic
+Agent <agree> Topic
+Agent <agree> Topic
+Agent <agree> Co-Agent Topic
+Agent <agree> Topic
+Agent <put> Attribute at Value
+Agent <estimate> Attribute of Theme
+Agent <estimate> Value
+Agent <estimate> Attribute
+Agent <estimate> Value
+Agent <estimate> Value
+Agent <estimate> Value
+Agent <approximate> Theme
+Agent <approximate> Theme
+Agent <ask> Topic
+Agent <ask> Topic
+Agent <ask>
+Agent <ask> Recipient
+Agent <ask> Topic
+Agent <ask> Recipient about Topic
+Agent <ask> Recipient Topic
+Agent <ask> Recipient Topic
+Agent <ask> Recipient Topic
+Agent <ask> Recipient Topic
+Agent <ask> about Topic
+Agent <ask> Recipient about Topic
+Agent <ask> about Topic
+Agent <ask> about Topic
+Agent <ask> about Topic
+Agent <ask> of Recipient Topic
+Agent <ask> of Recipient Topic
+Agent <ask> of Recipient about Topic
+Agent <ask> of Recipient about Topic
+Agent <ask> of Recipient about Topic
+Agent <ask> of Recipient about Topic
+Agent <ask> Topic
+Agent <ask> Topic
+Agent <ask> Topic
+Agent <ask> Topic
+Agent <ask> Recipient Topic
+Theme <cut> PREP Destination
+Theme <cut> PREP Trajectory
+Theme <cut> PREP Initial_Location PREP Destination
+Theme <advance>
+Theme <advance> PREP Initial_Location
+Theme <depart> Initial_Location
+Theme <enter> Destination
+Theme <ascend> Trajectory
+Causer <keep> Beneficiary from Eventuality
+Causer <ban> Eventuality
+Causer <ban> Theme
+Causer <ban> Theme
+Agent <chart> Theme
+Agent <chart> Theme PREP Destination
+Pivot <wear> Theme
+Agent <don> Theme
+Agent <belch>
+Agent <announce> Topic
+Agent <authorize> Recipient Topic
+Agent <go_on> Eventuality
+Agent <set_about> Eventuality
+Eventuality <begin>
+Agent <begin> Eventuality
+Eventuality <begin> with Subeventuality
+Agent <begin> Eventuality with Subeventuality
+Subeventuality <begin> Eventuality
+Agent <hasten> with Eventuality
+Agent <hasten> Theme
+Agent <focus> on Topic
+Agent <focus> on Topic
+Agent <focus> on Topic
+Agent <focus> on Topic
+Agent <brood>
+Agent <brood> about Topic
+Agent <brood> about Topic
+Agent <brood> about Topic
+Agent <brood> about Topic
+Location <carry> Value
+Agent <carry> Value in Location
+Agent <leave_office>
+Agent <resign> from Source
+Agent <resign> Attribute
+Agent <abdicate> Source
+Precondition <beget> Patient
+Causer <actuate> Theme Eventuality
+Theme <smell> Attribute
+Theme <act> Attribute
+Theme <be> in Attribute
+Theme <seem> Attribute
+Theme <bestride> Co-Theme
+Theme and Co-Theme <abut>
+Theme <dominate>
+Agent <bob> Patient
+Agent <bob> Patient
+Agent <buck>
+Agent <acknowledge> Theme Attribute
+Agent <consider> Theme Attribute
+Agent <consider> Theme
+Agent <consider> Theme
+Agent <consider> Theme
+Agent <consider> Theme
+Agent <consider> Theme Attribute
+Agent <consider> Theme Attribute
+Agent <consider> Theme
+Agent <suspect> Theme Attribute
+Agent <suspect> Theme Attribute
+Agent <suspect> Theme Attribute
+Agent <ascertain> Topic
+Agent <ascertain> Topic
+Agent <ascertain> Topic
+Agent <ascertain> Topic
+Agent <ascertain> Topic
+Agent <ascertain> Topic
+Agent <discover> about Topic
+Agent <discover> from Source Topic
+Agent <discover> from Source Topic
+Agent <discover> from Source about Topic
+Agent <discover> from Source about Topic
+Agent <discover> from Source about Topic
+Agent <discover> from Source about Topic
+Agent <discover> Topic
+Agent <spend> Asset for Theme
+Agent <spend> Asset
+Agent <pay> Recipient Asset for Theme
+Agent <pay> Recipient Asset
+Agent <disenfranchise> Patient
+Agent <disenfranchise> Patient with Instrument
+Agent <be_like> Topic
+Agent <add> Topic
+Agent <add> Topic to Recipient
+Agent <add> to Recipient Topic
+Agent <add> Topic
+Agent <add> Topic
+Agent <add> Topic
+Agent <add> Topic
+Agent <advise> Topic
+Agent <advise> Topic
+Agent <purpose> Topic to Recipient
+Agent <purpose> to Recipient Topic
+Agent <purpose> to Recipient Topic
+Agent <purpose> to Recipient Topic
+Agent <purpose> to Recipient Topic
+Agent <purpose> to Recipient Topic
+Agent <purpose> to Recipient Topic
+Agent <hint> Topic to Recipient
+Agent <hint> to Recipient Topic
+Agent <hint> to Recipient Topic
+Agent <hint> to Recipient Topic
+Agent <hint> to Recipient Topic
+Agent <hint> to Recipient Topic
+Agent <hint> to Recipient Topic
+Agent <deaccent> Source
+Theme <die>
+Theme <disappear> from Initial_Location
+Experiencer <ache>
+Experiencer <ache> PREP Stimulus
+Experiencer <abhor> Stimulus
+Experiencer <abhor> Stimulus for Attribute
+Experiencer <abhor> Stimulus
+Experiencer <abhor> Stimulus
+Experiencer <abhor> Stimulus
+Experiencer <abhor> Stimulus
+Experiencer <disdain> Stimulus
+Agent <base> Theme on Source
+Agent <base> Theme on Source
+Agent <base> Theme on Source
+Agent <base> Theme on Source
+Agent <charge> Theme
+Agent <commit> Theme to Destination
+Agent <request> Recipient Topic
+Agent <request> Topic
+Agent <supplicate> for Topic
+Agent <beg> Recipient for Topic
+Agent <bore> Patient
+Agent <bore> Patient with Instrument
+Patient <bore> ADV
+Instrument <bore> Patient
+Instrument <bore> ADV
+Agent <carve> Patient
+Agent <carve> Patient with Instrument
+Patient <carve> ADV
+Instrument <carve> Patient
+Instrument <carve> ADV
+Agent <drill> Patient
+Agent <drill> Patient with Instrument
+Patient <drill> ADV
+Instrument <drill> Patient
+Instrument <drill> ADV
+Agent <file> Theme PREP Initial_Location
+Agent <file> Theme PREP Initial_Location PREP Destination
+Agent <file> Initial_Location
+Agent <file>
+Agent <file> Initial_Location Result
+Agent <brush> Theme PREP Destination
+Agent <rule> Theme
+Agent <command> Theme PREP Eventuality
+Agent <command> Eventuality
+Experiencer <can_tell> Stimulus
+Experiencer <can_tell> Stimulus
+Experiencer <can_tell> Stimulus
+Experiencer <can_tell> Stimulus
+Experiencer <can_tell> Stimulus
+Experiencer <detect> Stimulus
+Experiencer <detect> Stimulus
+Experiencer <detect> Stimulus
+Experiencer <hear> about Stimulus
+Agent <wield> Theme
+Agent <clasp> Theme
+Agent <cleanse> Patient
+Agent <follow-up>
+Agent <follow-up>
+Agent <follow-up> with Co-Agent
+Theme <die>
+Theme <die>
+Agent <incite> Patient
+Agent <incite> Patient into Result
+Agent <incite> Patient into Result
+Agent <continue> Eventuality
+Eventuality <continue>
+Agent <continue>
+Eventuality <continue> with Subeventuality
+Patient <break_down>
+Theme <bustle> PREP Location
+there <bustle> Theme PREP Location
+PREP Location <bustle> Theme
+Location <bustle> with Theme
+Theme <abound> PREP Location
+there <abound> Theme PREP Location
+Location <abound> with Theme
+Agent <abase> Patient
+Agent <abase> Patient with Instrument
+Patient <categorize> ADV
+Location <bristle> with Theme
+Location <bristle>
+Theme <babble>
+Theme <babble> PREP Location
+Location <babble> with Theme
+PREP Location <babble> Theme
+there <babble> Theme PREP Location
+Agent <babble> Theme
+Agent <gush>
+Agent <gush> about Topic
+Agent <gush> to Recipient about Topic
+Agent <elaborate> about Topic
+Agent <dwell> about Topic
+Agent <dwell> on Topic
+Agent <lump> Patient with Co-Patient
+Agent <lump> Patient together
+Patient <beat> with Co-Patient ADV
+Agent <beat> Patient
+Agent <band> Patient with Co-Patient
+Agent <band> Patient together
+Agent <attach> Patient
+Agent <cheat> Source
+Agent <cheat> Source out_of Theme
+Agent <con> Source for Theme
+Agent <rob> Theme from Source
+Agent <charge> Recipient with Theme
+Agent <arm> Recipient
+Theme <armor> Recipient
+Theme <anoint> Destination
+Agent <anoint> Destination with Theme
+Agent <anoint> Destination
+Agent <adorn> Destination in Theme
+Agent <sum> Theme
+Agent <multiply> Theme by Co-Theme
+Agent <deduct> Theme from Co-Theme
+Agent <average> Theme over Co-Theme
+Agent <impale> Patient
+Agent <impale> Patient with Instrument
+Instrument <impale> Patient
+Agent <pierce> Instrument through Patient
+Agent <pierce> Instrument into Patient
+Agent <stab> at Theme
+Agent <stab> at Theme with Instrument
+Agent <stab> Instrument at Theme
+Agent <dig> Theme
+Agent <dig> Theme with Instrument
+Instrument <dig> Theme
+Pivot <contain> Theme
+Agent <announce> Theme
+Agent <announce> Theme to Recipient
+Theme <announce> Reflexive
+Agent <bike> Theme
+Agent <bike> Theme to Destination
+Agent <bike> Theme PREP Initial_Location
+Agent <bike> Theme PREP Initial_Location to Destination
+Agent <bike> Theme to Destination PREP Initial_Location
+Agent <barge> Theme
+Agent <barge> Theme PREP Initial_Location
+Agent <barge> Theme to Destination
+Agent <barge> Theme PREP Initial_Location to Destination
+Agent <barge> Theme to Destination PREP Initial_Location
+Agent <allure> Patient
+Agent <allure> Patient into Result
+Agent <allure> Patient into Result
+Agent <defer>
+Agent <defer> to Pivot
+Agent <accede> to Theme
+Agent <acquiesce> Theme
+Agent <atomize> Patient
+Agent <atomize> Patient with Instrument
+Patient <atomize>
+Patient <atomize> ADV
+Instrument <atomize> Patient
+Agent <atomize> Patient Result
+Agent <atomize> Patient Result with Instrument
+Agent <atomize> Patient to Result
+Agent <atomize> Patient to Result with Instrument
+Patient <atomize> to Result
+Agent <balance> Theme PREP Destination
+Agent <balance> Theme Destination
+Theme <be>
+Theme <be> PREP Location
+Theme <endure> Circumstance
+Theme <endure> PREP Circumstance
+Theme <endure> PREP Manner
+Pivot <advertise> Topic
+Pivot <advertise> Topic
+Pivot <advertise> Topic
+Pivot <advertise> Topic
+Pivot <advertise> Topic
+Pivot <explain> to Experiencer Topic
+Pivot <explain> to Experiencer Topic
+Pivot <explain> to Experiencer Topic
+Pivot <explain> to Experiencer Topic
+Pivot <affirm> Topic
+Agent <dedicate> Theme to Goal
+Agent <dedicate> Theme to Goal
+Theme <balloon>
+Theme <balloon> PREP Trajectory
+Agent <balloon> Theme PREP Trajectory
+Agent <balloon> Theme
+Agent <balloon> Theme Result
+Agent <balloon> Theme to Result
+Theme <bicycle> Location
+Agent <bend>
+Agent <bend> PREP Location
+Experiencer <balk>
+Experiencer <balk> at Stimulus
+Theme <reach> Goal
+Agent <try> Eventuality
+Agent <try> Eventuality
+Agent <try> Eventuality
+Theme <bow>
+Theme <bow> PREP Location
+there <bow> PREP Location Theme
+PREP Location <bow> Theme
+Agent <balance> Theme PREP Location
+Instrument <exceed> Theme
+Agent <exceed> Theme with Instrument
+Theme <abandon> Source
+Theme <abandon> Source PREP Destination
+Theme <desert>
+Agent <chase> Theme
+Agent <chase> Theme PREP Trajectory
+Agent <chase> after Theme
+Agent <approve> Beneficiary
+Causer <approve> Eventuality
+Causer <approve> Eventuality
+Causer <allow> Beneficiary Eventuality
+Agent <bet> Pivot
+Agent <bet> Eventuality
+Agent <chance> Theme
+Agent <inject>
+Agent <inject> Patient
+Agent <drink> PREP Source
+Agent <smoke> Source
+Agent <argue> with Co-Agent
+Agent <argue>
+Agent <argue> with Co-Agent about Theme
+Agent <argue> with Co-Agent about Theme
+Agent <argue> with Co-Agent about Theme
+Agent <argue> with Co-Agent about Theme
+Agent <argue> with Co-Agent about Theme
+Agent <argue> about Theme
+Agent <argue> about Theme
+Agent <argue> about Theme
+Agent <argue> about Theme
+Agent <argue> about Theme
+Agent <argue> about Theme
+Agent <battle> Co-Agent
+Agent <battle> Co-Agent about Theme
+Agent <battle> Co-Agent about Theme
+Agent <battle> Co-Agent about Theme
+Agent <battle> Co-Agent about Theme
+Agent <battle> Co-Agent about Theme
+Agent <loop> Theme PREP Destination
+Theme <loop> PREP Destination
+Theme <loop> ADV PREP Destination
+Theme <curl> Trajectory
+Theme <angle> PREP Location
+PREP Location <angle> Theme
+there <angle> PREP Location Theme
+there <angle> Theme PREP Location
+Theme <ascend>
+Pivot <be> Theme
+Pivot <be> Theme in Attribute
+Agent <discriminate> against Maleficiary
+Agent <sin> Theme
+Agent <legislate> against Topic
+Agent <legislate> Topic
+Agent <annotate> Theme PREP Destination
+Agent <annotate> Destination with Theme
+Agent <annotate> Destination
+Agent <annotate> Theme
+Agent <annotate>
+Agent <action> Eventuality
+Agent <do>
+Agent <act> on Eventuality
+Agent <act> Eventuality
+Agent <pronounce> Theme Manner
+Agent <pronounce> Theme with Manner
+Agent <pronounce> Theme Manner
+Agent <annoy> Patient
+Agent <annoy> Patient into Eventuality
+Agent <annoy> Patient into Result
+Agent <chat>
+Agent <chat> with Co-Agent
+Agent <chat> with Co-Agent about Topic
+Agent <chat>
+Agent <chat> about Topic with Co-Agent
+Agent <chat> about Topic
+Agent <chat> about Topic
+Agent <argue> Topic
+Agent <argue> Topic
+Agent <argue> Topic
+Agent <argue> Topic with Co-Agent
+Agent <apprentice> Theme
+Agent <pledge> Recipient Topic
+Agent <pledge> to Recipient Topic
+Agent <pledge> Topic
+Theme <move>
+Theme <move> PREP Initial_Location
+Theme <move> to Destination
+Theme <move> PREP Initial_Location to Destination
+Agent <move> Theme
+Agent <move> Theme PREP Trajectory
+Agent <move> Theme to Destination
+Agent <move> Theme PREP Initial_Location to Destination
+Agent <move> Destination Theme PREP Initial_Location
+Agent <bounce> Destination Theme
+Agent <archive> Theme
+Agent <archive> Theme in Destination
+Theme <berth> in Destination
+Theme <berth>
+Theme <berth> Destination
+Agent <abuse> Theme
+Agent <abuse> Theme for Attribute
+Agent <abuse> Attribute
+Agent <acclaim> Theme as Attribute
+Agent <doubt> Theme Attribute
+Agent <commission> Theme
+Agent <commission> Theme as Attribute
+Agent <commission> Theme Attribute
+Theme <attract> Asset
+Patient <ache>
+Patient <ache> from Stimulus
+Agent <call> Theme Result
+Agent <call> Theme
+Agent <antique>
+Agent <antique>
+Agent <antique> Location
+Agent <catnap>
+Agent <nap> Theme
+Agent <reason> Theme
+Agent <reason> Theme from Source
+Agent <reason> from Theme Source
+Agent <reason> Theme
+Agent <gulp> Patient
+Agent <gulp> Patient down
+Agent <bolt> Patient up
+Agent <ambush> Patient
+Agent <attack>
+Agent <abduct> Theme
+Agent <abduct> Theme PREP Source
+Agent <abduct> Theme for Beneficiary
+Agent <abduct> Theme PREP Source for Beneficiary
+Agent <cadge> Beneficiary Theme
+Causer <confine> Patient
+Causer <confine> Patient to Goal
+Causer <confine> Patient to Goal
+Causer <confine> Patient Goal
+Agent <talk> Patient into Result
+Agent <talk> Patient into Result
+Agent <arm-twist> Patient
+Agent <arm-twist> Patient Result
+Agent <cast> Theme
+Agent <cast> Theme PREP Destination
+Agent <cast> Theme PREP Initial_Location
+Agent <cast> Theme PREP Initial_Location PREP Destination
+Agent <cast> Theme ADV
+Agent <bash> Destination Theme
+Causer <catapult> Theme into Result
+Causer <catapult> into Result Theme
+Agent <use> Asset
+Agent <use> Asset Goal
+Agent <reuse> Asset on Goal
+Agent <reuse> Asset on Goal
+Patient <apostatize>
+Agent <assume> Theme
+Theme <bob>
+Theme <bob> PREP Location
+there <bob> Theme
+PREP Location <bob> Theme
+Agent <bob> Theme
+Theme <coincide> with Co-Theme
+Theme <coincide> with Co-Theme
+Agent <coincide> Theme with Co-Theme
+Agent <coincide> Theme with Co-Theme
+Agent <baa>
+Agent <baa> PREP Recipient
+Agent <baa> Theme
+Agent <baa> Theme PREP Recipient
+Agent <baa> PREP Stimulus
+Agent <baa> Theme PREP Recipient PREP Stimulus
+Agent <dribble> Theme PREP Destination
+Agent <dribble> Theme Destination
+Theme <dribble> PREP Destination
+Agent <dribble> Theme PREP Initial_Location PREP Destination
+Theme <dribble> PREP Initial_Location PREP Destination
+Theme <accumulate>
+Agent <accumulate> Theme
+Agent <accumulate> Theme together
+Agent <consult> with Co-Agent
+Agent <consult>
+Agent <consult> Co-Agent
+Agent <consult>
+Agent <battle> with Co-Agent
+Agent <battle>
+Agent <battle> Co-Agent
+Agent <battle>
+Agent <cram>
+Agent <absorb> Topic
+Agent <absorb> Topic
+Agent <absorb> from Source Topic
+Agent <absorb> from Source Topic
+Agent <find_out> of Topic
+Agent <find_out> of Theme
+Agent <find_out> of Theme
+Agent <find_out> of Theme from Source
+Patient <intermarry> ADV with Co-Patient
+Patient <intermarry> ADV
+Agent <couple> Patient into Co-Patient
+Agent <couple> Patient
+Patient <couple> with Co-Patient
+Patient <amalgamate>
+Agent <conjoin> Patient with Co-Patient
+Agent <conjoin> Patient
+Patient <conjoin> with Co-Patient
+Patient <alternate>
+Agent <oppose> Patient
+Agent <introduce> Patient to Co-Patient
+Patient <marry>
+Patient <engage>
+Theme <billow>
+Theme <billow> PREP Location
+there <billow> Theme
+PREP Location <billow> Theme
+Location <billow> with Theme
+Patient <ail>
+Patient <ail> Experiencer
+Patient <ail> from Stimulus
+Agent <bellyache>
+Agent <bellyache> to Recipient
+Agent <bellyache> Topic
+Agent <bellyache> to Recipient Topic
+Agent <bellyache> about Topic
+Agent <bellyache> about Topic to Recipient
+Agent <bellyache> Topic
+Agent <bellyache> to Recipient Topic
+Agent <bellyache> to Recipient about Topic
+Agent <burgle> Source
+Agent <burgle> Source of Theme
+Agent <carve> Patient
+Agent <carve> Patient from Co-Patient
+Patient <carve> ADV
+Theme <go_on>
+there <go_on> Theme
+Theme <go_on> PREP Location
+it <befall> Theme
+Theme <go>
+Agent <clothe> Patient
+Agent <bathe> Patient
+Pivot <attire> in Theme
+Agent <speak>
+Agent <speak> to Co-Agent
+Agent <speak> with Co-Agent
+Agent <speak> to Co-Agent about Topic
+Agent <speak> with Co-Agent about Topic
+Agent <speak>
+Agent <speak> together
+Agent <speak> about Topic to Co-Agent
+Agent <speak> about Topic with Co-Agent
+Agent <speak> about Topic
+Agent <disassociate> Patient from Co-Patient
+Agent <disassociate> Patient
+Patient <disassociate>
+Patient <disassociate> ADV from Co-Patient
+Patient <disassociate> ADV
+Patient <decouple> from Co-Patient
+Patient <disconnect> with Co-Patient
+Agent <decline> Theme
+Agent <decline> Theme
+Agent <discourage> Theme
+Agent <discourage> Theme
+Experiencer <blanch>
+Experiencer <blanch> from Stimulus
+Agent <ferret_out> Theme PREP Source
+Agent <ferret_out> PREP Theme
+Theme <come> at Value
+Agent <meter> Theme
+Agent <meter> Theme at Value
+Agent <meter> Attribute at Value
+Theme <clock> Value
+Agent <exist> on Patient
+Agent <bang> Patient
+Agent <bang> Patient with Instrument
+Agent <bang> Patient together
+Agent <bang> Patient Result
+Agent <bang> Patient Result with Instrument
+Agent <bang> Patient to Result
+Agent <bang> Patient to Result with Instrument
+Agent <bang> Instrument against Patient
+Instrument <bang> Patient
+Instrument <bang> Patient Result
+Instrument <bang> Patient to Result
+Agent <batter> at Patient
+Agent <batter> at Patient with Instrument
+Agent <answer> to Co-Agent
+Agent <buff> Theme PREP Source
+Agent <buff> Source
+Agent <buff> Theme
+Agent <bail> at Source
+Agent <adapt> Patient
+Agent <adapt> Patient to Goal
+Agent <adapt> Patient to Goal
+Agent <adapt> to Goal
+Agent <adapt> to Goal
+Agent <deal> with Theme
+Agent <cope>
+Agent <manage> Theme
+Agent <annihilate> Patient
+Agent <annihilate> Patient with Instrument
+Instrument <kill> Patient
+Pivot <overcome> Theme
+Pivot <overcome> Theme in Attribute
+Agent <demonstrate> Topic
+Agent <demonstrate> Topic
+Agent <demonstrate> to Recipient Topic
+Agent <demonstrate> to Recipient Topic
+Agent <demonstrate> Topic
+Agent <demonstrate> Topic
+Agent <demonstrate> Topic
+Agent <demonstrate> Topic to Recipient
+Agent <demonstrate>
+Agent <dictate> Recipient Topic
+Agent <show> Recipient
+Agent <show> Recipient Topic
+Agent <show> Recipient about Topic
+Agent <show> Recipient Topic
+Agent <show> Recipient Topic
+Agent <show> Recipient Topic
+Agent <show> Recipient Topic
+Theme <echo>
+Theme <echo> PREP Location
+there <echo> Theme
+PREP Location <echo> Theme
+Location <echo> with Theme
+Pivot <covet> Theme
+Pivot <enjoy> Theme
+Pivot <enjoy> Theme
+Pivot <enjoy> Theme ADJ
+Pivot <enjoy> Theme
+Pivot <enjoy> Theme
+Pivot <enjoy> Theme
+Pivot <enjoy> Theme
+Pivot <enjoy> Theme
+Pivot <want> Theme
+Pivot <want> Theme
+Stimulus <grate> Experiencer
+Stimulus <grate> on Experiencer
+Stimulus <appeal> to Experiencer
+Agent <buzz> Recipient
+Agent <call>
+Agent <bake> Patient
+Agent <bake> Patient in Instrument
+Patient <bake>
+Patient <bake> ADV
+Instrument <bake> Patient
+Agent <bake> Patient to Result
+Agent <bake> Patient to Result in Instrument
+Patient <bake> to Result
+Patient <bake> to Result in Instrument
+Agent <use> Theme
+Agent <use> Theme ADV
+Agent <use> Theme for Eventuality
+Agent <use> Theme Eventuality
+Theme <December> PREP Location
+Agent <adopt> Theme as Attribute
+Agent <adopt> Theme to Attribute
+Agent <adopt> Theme as Attribute
+Agent <characterize> Theme
+Agent <characterize> Theme
+Agent <accept> Theme
+Agent <accept> Theme
+Agent <accept> Theme
+Agent <report> Theme
+Agent <report> Theme
+Agent <report> Theme
+Agent <report> Theme
+Agent <chip> Patient
+Agent <chip> Patient with Instrument
+Agent <succeed>
+Agent <succeed> in Eventuality
+Agent <succeed> in Eventuality
+Agent <manage> Eventuality
+Agent <win>
+Agent <win> Eventuality
+Agent <win> in Eventuality
+Agent <fall>
+Agent <lose> Eventuality
+Agent <lose> in Eventuality
+Agent <fail> in Eventuality
+Agent <fail> Eventuality
+Agent <consume> Patient
+Theme <go>
+Theme <perform> Attribute
+Agent <appoint> Theme Attribute
+Agent <appoint> Theme as Attribute
+Agent <appoint> Theme to be Attribute
+Agent <appoint> Theme
+Agent <asphyxiate> Patient
+Patient <asphyxiate>
+Patient <asphyxiate> to Result
+Agent <asphyxiate> Patient to Result
+Agent <brush> Patient
+Agent <brush>
+Agent <brush> Patient with Instrument
+Agent <brush> with Instrument
+Agent <affix> Patient
+Agent <affix> Patient to Co-Patient
+Agent <affix> Patient to Co-Patient with Instrument
+Agent <affix> Patient together
+Patient <affix> ADV to Co-Patient
+Patient <affix> ADV
+Patient <affix> together ADV
+Agent <affix> Patient Result
+Patient <buy_the_farm>
+Patient <choke> of Causer
+Patient <advert> to Result
+Patient <advert> to Result
+Patient <return> from Initial_State to Result
+Patient <change_over>
+Agent <change_over> Patient
+Agent <change_over> Patient to Result
+Agent <change_over> Patient to Result
+Theme <beam>
+Theme <beam> PREP Location
+Location <beam> with Theme
+there <beam> Theme PREP Location
+PREP Location there <beam> Theme
+Agent <beam> Theme
+Causer <benefit> Beneficiary
+Beneficiary <benefit>
+Beneficiary <benefit> from Causer
+Agent <dally> PREP Location
+Agent <dally> over Eventuality
+Agent <clerk>
+Agent <clerk> for Beneficiary
+Agent <clerk> on Theme
+Agent <clerk> on Theme at Beneficiary
+Agent <clerk> as Attribute for Beneficiary
+Agent <clerk> as Attribute on Theme for Beneficiary
+Agent <defecate>
+Agent <defecate> Theme
+Agent <inhale>
+Agent <inhale> Theme
+Stimulus <abash> Experiencer
+Experiencer <abash> ADV
+Stimulus <abash>
+Stimulus 's <abash> Experiencer
+Stimulus <abash> Experiencer Result
+Theme <boogie>
+Theme <boogie> PREP Trajectory Destination
+Agent <boogie> Theme PREP Trajectory
+Agent <boogie> Theme Result
+Agent <boogie> Theme Result
+Agent <dally> with Theme
+Agent <addict> Patient to Theme
+Agent <addict> Patient to Theme
+Agent <butcher> for Beneficiary
+Agent <babysit> Beneficiary
+Beneficiary <star> Agent
+Experiencer <empathize>
+Experiencer <empathize> with Stimulus
+Experiencer <empathize> with Stimulus
+Experiencer <empathize> with Stimulus
+Experiencer <behold> Stimulus
+Experiencer <chance_across> Stimulus
+Agent <disregard> Theme
+Agent <fail> Theme
+Agent <promote> Theme
+Agent <promote> Theme
+Agent <promote> Theme
+Agent <suspect> Theme of Attribute
+Agent <suspect> Theme of Attribute
+Agent <suspect> Theme
+Agent <accept> Theme
+Agent <accept> Theme from Source
+Agent <acquire> Theme for Asset
+Asset <acquire> Theme
+Agent <bob>
+Agent <bob> PREP Recipient
+Agent <bob> Topic
+Agent <bob> Topic to Recipient
+Agent <annihilate> Patient
+Agent <annihilate> Patient with Instrument
+Instrument <annihilate> Patient
+Agent <hoard> Theme PREP Location
+Agent <hoard> Theme
+Source <give> Theme
+Source <bead>
+Theme <bead> from Source
+Theme <bead> PREP Location
+Location <bead> with Theme
+PREP Location <bead> Source
+there <bead> Source PREP Location
+Theme <bead> out
+Agent <bleed> Source
+Agent <babble>
+Agent <babble> PREP Recipient
+Agent <babble> about Topic
+Agent <babble> Topic
+Agent <babble> Topic
+Agent <babble> Topic PREP Recipient
+Agent <babble> Topic
+Agent <babble> Topic
+Agent <babble> Topic
+Agent <babble> PREP Recipient Topic
+Agent <babble> PREP Recipient Topic
+Agent <babble> PREP Recipient Topic
+Agent <babble> for Recipient Topic
+Agent <babble> PREP Recipient Topic
+Agent <carry> Theme
+Agent <carry> Theme to Destination
+Agent <carry> Theme PREP Initial_Location
+Agent <carry> Theme PREP Initial_Location to Destination
+Agent <carry> Theme to Destination PREP Initial_Location
+Agent <heave> Destination Theme
+Agent <blow> Patient off Co-Patient
+Agent <blow> Patient apart
+Patient <blow> off Co-Patient
+Patient <blow> apart
+Patient <blow> off Co-Patient ADV
+Patient <blow> apart ADV
+Agent <frolic>
+Agent <frolic> with Co-Agent
+Agent <frolic>
+Agent <play> Theme
+Agent <play> with Theme
+Agent <play> Co-Agent
+Agent <play> Theme with Co-Agent
+Agent <play> Theme
+Agent <convey> Theme
+Agent <convey> Theme PREP Initial_Location
+Agent <convey> Theme to Destination
+Agent <convey> Theme PREP Initial_Location to Destination
+Agent <convey> Theme to Destination PREP Initial_Location
+Agent <airmail> Destination Theme
+Agent <oar>
+Agent <oar> PREP Trajectory
+Agent <oar> Theme PREP Trajectory
+Agent <oar> Theme
+Agent <oar> Location
+Theme <cruise> Trajectory
+Theme <take> Precondition
+Theme <take> Precondition
+Theme <take> Precondition
+Theme <necessitate> Precondition from Source
+Theme <necessitate> Precondition
+Theme <necessitate> Precondition
+Theme <need> Precondition
+Stimulus <feel> ADJ
+Stimulus <feel> ADJ to Experiencer
+Stimulus <feel> like
+Theme <dwell> at Location
+Theme <dwell> Location
+Agent <barrack> Theme at Location
+Agent <book> Patient
+Agent <book> Patient for Theme
+Agent <arrest> Patient as Attribute
+Agent <arrest> Patient for Theme as Attribute
+Agent <arrest> Patient as Attribute for Theme
+Agent <postpone> Eventuality
+Agent <postpone> Eventuality
+Agent <delay> Source
+Agent <stall>
+Agent <stall> Eventuality
+Agent <procrastinate> Eventuality
+Agent <asphyxiate> Patient
+Agent <asphyxiate> Patient Result
+Agent <asphyxiate> Patient to Result
+Agent <asphyxiate> Patient with Instrument
+Pivot <ache> Theme
+Pivot <ache> for Theme
+Pivot <hanker> after Theme
+Agent <canvass> Location for Theme
+Agent <canvass> Location
+Agent <mine> Theme
+Agent <mine> Theme PREP Initial_Location
+Theme <branch> from Co-Theme
+Theme <branch>
+Agent <defend> Beneficiary
+Agent <defend> Beneficiary against Theme
+Agent <defend> Beneficiary
+Agent <defend> Beneficiary
+Agent <barter> Theme for Co-Theme
+Agent <barter> Theme
+Agent <barter> Theme with Co-Agent
+Agent <barter> Theme
+Agent <bang_away>
+Agent <bang_away> on Theme
+Agent <bang_away> with Co-Agent on Theme
+Agent <bang_away> at Theme
+Agent <bang_away> with Co-Agent at Theme
+Agent <scent> Location for Theme
+Agent <scent> Theme PREP Location
+Agent <scent> Theme
+Theme <comprise> Pivot
+Pivot <comprise> Theme
+Theme <substitute> for Co-Theme
+Theme <substitute> Location
+Theme <substitute> Location with Co-Theme
+Theme <replace> Co-Theme
+Agent <bore> over Location
+Agent <bore> PREP Location for Theme
+Agent <forage> Location for Theme
+Agent <buy> Goal
+Agent <invest> Asset Goal
+Agent <invest> Asset Theme
+Agent <chafe> Experiencer
+Agent <chafe> Experiencer with Instrument
+Agent <chafe> Theme
+Agent <chafe> Theme with Instrument
+Agent <caress> Experiencer on Theme with Instrument
+Precondition <cause> in Patient
+Experiencer <convulse>
+Experiencer <convulse> from Stimulus
+Experiencer <convulse> at Stimulus
+Agent <hold> Theme through Instrument
+Agent <keep> Theme Attribute
+Pivot <have> Theme
+Causer <alleviate> Source of Theme
+Causer <absolve> Source of Theme
+Causer <cure> Source from Theme
+Agent <betroth> Theme to Recipient
+Agent <betroth> Theme
+Agent <betroth> to Recipient Theme
+Agent <disseminate> to Recipient
+Agent <disseminate> Theme among Recipient
+Agent <administer>
+Agent <disburse> Recipient Theme
+Agent <reimburse> Recipient
+Agent <block> Patient from Beneficiary
+Agent <block> Patient PREP Location
+Agent <block> Patient
+Agent <hide>
+Agent <hide> from Beneficiary
+Agent <hide> PREP Location
+Agent <dig> Location for Theme
+Agent <dig> for Theme PREP Location
+Agent <dig> PREP Location for Theme
+Agent <dig> Theme PREP Location
+Agent <dig> Theme
+Agent <dig>
+Agent <omit> Theme from Goal
+Agent <omit> Theme
+Agent <exclude> Theme from Goal
+Theme <appear>
+Theme <appear> PREP Location
+there <appear> Theme PREP Location
+PREP Location <appear> Theme
+Theme <appear> Location
+Agent <bark> Source
+Agent <beam>
+Agent <beam> Theme
+Agent <beam> Theme
+Agent <beam> in Theme
+Agent <beam> PREP Recipient
+Agent <beam> PREP Stimulus
+Attribute of Patient <build>
+Patient <build> in Attribute
+Patient <build>
+Patient <appreciate> Extent from Initial_State to Result
+Patient <appreciate> by Extent from Initial_State to Result
+Attribute of Patient <appreciate> Extent from Initial_State to Result
+Attribute of Patient <appreciate> by Extent from Initial_State to ?Result
+Patient <appreciate> in Attribute Extent from Initial_State to Result
+Patient <appreciate> in Attribute by Extent from Initial_State to Result
+Agent <analyse> Theme
+Agent <analyse> Theme for Attribute
+Agent <analyse> Theme 's Attribute
+Agent <analyse> Theme as Value
+Patient <develop> into Product
+Product <develop> from Patient
+Agent <develop> Product from Patient
+Agent <develop> Patient into Product
+Agent <call_on> Recipient Topic
+Agent <admonish> Recipient Topic
+Experiencer <mind>
+Experiencer <mind> Stimulus
+Experiencer <mind> Stimulus
+Experiencer <care> about Stimulus
+Experiencer <care> Stimulus
+Experiencer <care> about Stimulus
+Causer <drive> Patient Result
+Causer <drive> Result Patient
+Causer <make> Patient Result
+Causer <get> Patient Result
+Agent <acquaint> Recipient
+Agent <acquaint> Recipient of Topic
+Agent <acquaint> Recipient Topic
+Agent <belt> Patient
+Agent <belt> Patient with Instrument
+Agent <belt> Patient Result
+Agent <belt> Patient to Result
+Agent <belt> Patient to Result with Instrument
+Agent <belt> Patient PREP Location
+Agent <belt> Patient PREP Location with Instrument
+Agent <belt> Patient
+Agent <arrange> Theme PREP Destination
+Agent <arrange> Theme Destination
+Agent <apply> Theme
+Agent <place> on Destination Theme
+Theme <alternate> ADV
+Theme <alternate> Co-Theme
+Theme <alternate> ADV Co-Theme
+Theme <alternate>
+Theme <bounce>
+Theme <bounce> PREP Trajectory
+Theme <bounce> PREP Source PREP Trajectory PREP Destination
+Agent <bounce> Theme
+Agent <bounce> Theme PREP Trajectory
+Agent <bounce> Theme PREP Source PREP Trajectory PREP Destination
+Theme <bounce> Result
+Theme <bounce> to Result
+Agent <bounce> Theme Result
+Agent <bounce> Theme to Result
+Agent <admit> Theme to be Eventuality
+Agent <admit> Theme
+Agent <anticipate> Theme
+Agent <feel> like Theme
+Agent <kill> Duration
+Agent <kill> Duration as Attribute
+Agent <kill> Duration Eventuality
+Agent <kill> Duration as Attribute Eventuality
+Agent <return> Theme
+Agent <return> Theme Eventuality
+Agent <answer>
+Agent <answer> Eventuality
+Agent <deal> Theme to Recipient
+Agent <deal> Recipient Theme
+Agent <deal> Theme
+Agent <deal> to Recipient
+Agent <give> Theme for Asset
+Agent <give> Theme to Recipient at Asset
+Agent <give> Recipient Theme at Asset
+Pivot <expect> Theme
+Pivot <expect> Theme
+Pivot <expect> Theme
+Pivot <expect> Theme
+Pivot <expect> Theme
+Pivot <expect> Theme
+Agent <babysit> Theme
+Agent <attend> to Theme
+Agent <care> for Theme
+Agent <arch> Patient
+Agent <arch> Patient PREP Recipient
+Agent <arch> Patient PREP Recipient in Topic
+Agent <control> Theme
+Agent <control> Theme
+Agent <collaborate> on Theme
+Agent <collaborate> with Co-Agent on Theme
+Agent <collaborate> in Theme
+Agent <collaborate> with Co-Agent in Theme
+Agent <collaborate> in Theme
+Agent <participate> in Theme
+Agent <participate> in Theme
+Agent <labour> on Theme
+Agent <labour> with Co-Agent on Theme
+Agent <labour> at Theme
+Agent <labour> with Co-Agent at Theme
+Agent <conduct> Theme
+Agent <conduct> Theme Beneficiary
+Agent <calve>
+Agent <foal> Patient
+Agent <banish> Theme
+Agent <banish> Theme PREP Source
+Agent <banish> Theme to Destination
